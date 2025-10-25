@@ -1,6 +1,6 @@
 # Projetos de Certificação - Desenvolvimento Web Responsivo
 
-Este repositório contém os *projetos de certificação* do curso *Desenvolvimento Web Responsivo* do [freeCodeCamp](https://www.freecodecamp.org/).  
+Este repositório contém os *principais projetos* do curso *Desenvolvedor Fulstack* do [freeCodeCamp](https://www.freecodecamp.org/portuguese/learn/full-stack-developer/).  
 
 Atualmente, contém o *primeiro projeto de certificação*. Novos projetos serão adicionados conforme forem concluídos.
 
