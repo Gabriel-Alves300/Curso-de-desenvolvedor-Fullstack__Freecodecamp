@@ -2,7 +2,7 @@
 
 Este repositório contém os *principais projetos* do curso *Desenvolvedor Fulstack* do [freeCodeCamp](https://www.freecodecamp.org/portuguese/learn/full-stack-developer/).  
 
-Atualmente, contém o *primeiro projeto de certificação*. Novos projetos serão adicionados conforme forem concluídos.
+Atualmente, contém apenas *um projeto*. Novos projetos serão adicionados conforme forem concluídos.
 
 ---
 
