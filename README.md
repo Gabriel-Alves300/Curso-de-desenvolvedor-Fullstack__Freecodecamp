@@ -19,6 +19,3 @@ Atualmente, contém apenas *um projeto*. Novos projetos serão adicionados confo
 ##  Estrutura do repositório
 
 Cada projeto possui sua própria pasta dentro do repositório:
-
-##Aviso!
-Devido a mudanças no curso, não é possível que eu atualize este repositório. Então, a partir de agora ele não será mais atualizado.
